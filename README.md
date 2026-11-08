@@ -21,6 +21,28 @@ The project implements **Dijkstra's Shortest Path Algorithm** to identify the sh
 ## 4. Facilities
 
 The graph contains 20 healthcare facilities represented by vertices A to T.
+| Vertex | Healthcare Facility |
+|--------|---------------------|
+| A | Queen Elizabeth Central Hospital |
+| B | Bangwe Health Centre |
+| C | Limbe Health Centre |
+| D | Ndirande Health Centre |
+| E | Chilomoni Health Centre |
+| F | Zingwangwa Health Centre |
+| G | Chitimba Health Centre |
+| H | South Lunzu Health Centre |
+| I | Mbatani Health Centre |
+| J | Kachidi Health Centre |
+| K | Makhetha Health Centre |
+| L | Malabada Health Centre |
+| M | Blantyre Adventist Hospital |
+| N | Mwaiwathu Private Hospital |
+| O | Beit Cure International Hospital |
+| P | Shifa Hospital |
+| Q | LMJ Hospital |
+| R | Bean Medical Centre |
+| S | Masm Medical Clinic |
+| T | Atlas Medical Centre |
 
 ## 5. How to Run the Project
 
